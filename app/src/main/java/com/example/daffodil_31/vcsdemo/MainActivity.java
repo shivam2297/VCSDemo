@@ -10,8 +10,6 @@ public class MainActivity extends AppCompatActivity {
 
         //this is written after initial commit
 
-        //this is written in master branch only
-
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
