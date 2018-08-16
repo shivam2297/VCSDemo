@@ -20,7 +20,7 @@ jobs:
       # Customize the JVM maximum heap limit
       JVM_OPTS: -Xmx3200m
       TERM: dumb
-      - sudo ANDROID-HOME: /usr/local/android-sdk-linux
+      sudo ANDROID-HOME: /usr/local/android-sdk-linux
 
     steps:
       - checkout
