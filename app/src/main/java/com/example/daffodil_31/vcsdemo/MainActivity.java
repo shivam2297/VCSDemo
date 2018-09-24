@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         MyClass myClass = new MyClass(10);
+        //this comment is written in local only
 
 
 
